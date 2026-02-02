@@ -48,5 +48,4 @@ Send 0.001 BTC donation using ricochet send with 5 hops and 24 hour confirmation
 ```
 $ ./ricochet-send.sh 0.001 bc1qwfafhs3ztp5d78n3jwwvlel0m7g0njj949zdya 5 $(./estimatesmartfee.sh $(./timetoblocks.sh "24 hours"))
 ```
-## Support
 
